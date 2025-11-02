@@ -8,18 +8,16 @@ This project is organised around each optimisation function.
 Every function has its own folder so the code, documentation, and results stay together and easy to follow.
 
 The structure is:
-/functions
-    /function_01
-        README.md       # explanation of the function, method, and final results
-        notebook.ipynb  # all experiments, plots, and model runs for this function
-        /results        # final plots, tables, metrics (optional)
-    /function_02
-        README.md
-        notebook.ipynb
-        /results
-...
-README.md
-
+Problems/
+├── function_01/
+│ ├── README_fun1.md - description, method, and final results
+│ ├── fun1.ipynb - experiments, visualisations, optimisation
+│ └── results/ - final plots or tables (optional)
+├── function_02/
+│ ├── README_fun2.md
+│ ├── fun2.ipynb
+│ └── results/
+└── ...
 
 
 
