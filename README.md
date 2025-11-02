@@ -9,7 +9,7 @@ Every function has its own folder so the code, documentation, and results stay t
 
 The structure is:
 ```
-functions/
+Problems/
  ├── function_01/
  │    ├── README.md        - description, method, and final results
  │    ├── fun1.ipynb       - experiments, visualisations, optimisation
