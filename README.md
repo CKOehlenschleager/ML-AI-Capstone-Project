@@ -1,5 +1,8 @@
 # Capstone Project – Machine Learning &amp; Artificial Intelligence
 
+Link to Datasheet: https://github.com/CKOehlenschleager/ML-AI-Capstone-Project/blob/main/Information/Datasheet.md
+Link to Model Card: https://github.com/CKOehlenschleager/ML-AI-Capstone-Project/blob/main/Information/Model%20Card.md
+
 This repository contains my work for the capstone project in the Professional Certificate in Machine Learning & Artificial Intelligence from Imperial College London.
 
 The focus of this project is to optimise a set of unknown functions using e.g. Bayesian optimisation or linear regression. The functions are proxies for real-world optimisation problems, and the focus is on approaching them in a methodical and statistically responsible way — particularly given the limited data available.
